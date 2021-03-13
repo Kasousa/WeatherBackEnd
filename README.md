@@ -29,14 +29,11 @@ Projeto de automação de testes de back end, escrito em JAVA, para testes da AP
             - BaseTest -> Classe base do Cucumber para execução dos testes
 
 
+# IMPORTANTE!
 
+Encontrado BUG na API:
 
-
-
-
-
-
-
-
+Quando solicitada a temperatura via ZIP CODE, o campo ID da cidade está retornando 0 quando deveria retornar 4164138 conforme documentação da API  
+https://openweathermap.org/current#list
 
 &copy; Kaique Santos Sousa - 2021
