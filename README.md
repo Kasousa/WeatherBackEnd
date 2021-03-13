@@ -16,18 +16,17 @@ Projeto de automação de testes de back end, escrito em JAVA, para testes da AP
 
 - configs -> Pasta com o arquivo de configurações do framework (URL base e API Key)
 - src 
-    - main  
     - test
         - java 
-        - ApiDoc -> Tratamento dos arquivos pertinentes a documentação da API
-        - ApiEngine -> Modelos de Request e Response da API
-        - Cucumber -> Classes de contexto para os cenários
-        - DataProvider -> Classe de leitura das configurações
-        - Enums -> Enums do framework
-        - Feature -> Arquivos .feature com o BDD do Cucumber
-        - Steps -> Classes contendo os passos dos testes
-        - Support -> Classes de suporte dos testes 
-        - BaseTest -> Classe base do Cucumber para execução dos testes
+            - ApiDoc -> Tratamento dos arquivos pertinentes a documentação da API
+            - ApiEngine -> Modelos de Request e Response da API
+            - Cucumber -> Classes de contexto para os cenários
+            - DataProvider -> Classe de leitura das configurações
+            - Enums -> Enums do framework
+            - Feature -> Arquivos .feature com o BDD do Cucumber
+            - Steps -> Classes contendo os passos dos testes
+            - Support -> Classes de suporte dos testes 
+            - BaseTest -> Classe base do Cucumber para execução dos testes
 
 
 
