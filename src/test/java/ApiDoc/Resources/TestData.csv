@@ -1,0 +1,6 @@
+﻿ID, Data
+ByCityName,latitude: 37.25; longitude: -3.25; deltaCoord: 0; base: stations; tempDefault: 273.15; deltaTemp: 50; country: ES; timezone: 3600; id: 2517115; city: Granada; cod: 200;
+ByCityNameStateCountry,latitude: 11.9299; longitude: -85.956; deltaCoord: 0; base: stations; tempDefault: 273.15; deltaTemp: 50; country: NI; timezone: -21600; id: 3619136; city: Granada; cod: 200;
+ByCityID,latitude: 40.1671; longitude: -74.4999; deltaCoord: 0; base: stations; tempDefault: 273.15; deltaTemp: 50; country: US; timezone: -18000; id: 5101760; city: New Jersey; cod: 200;
+ByCoordinates,latitude: 40.1671; longitude: -74.4999; deltaCoord: 0; base: stations; tempDefault: 273.15; deltaTemp: 50; country: US; timezone: -18000; id: 5101760; city: New Jersey; cod: 200;
+ByZIPCode,latitude: 25.8001; longitude: -80.281; deltaCoord: 0; base: stations; tempDefault: 273.15; deltaTemp: 50; country: US; timezone: -18000; id: 4164138; city: Miami; cod: 200;
